@@ -1,0 +1,28 @@
+a {
+  background-color: black;
+  color: white;
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  text-decoration: none;
+  width: 100px;
+  text-align: center;
+}
+
+a:hover {
+  background-color: deepskyblue;
+  transition: color 3ms;
+}
+div {
+  text-align: center;margin: 0 auto;
+  width: 15%;
+}
+
+.pgSobre {
+  background-color: darkseagreen;
+  transition: color 3ms;
+}
+.pgSobre:hover {
+  background-color: aquamarine;
+  transition: color 3ms;
+}
